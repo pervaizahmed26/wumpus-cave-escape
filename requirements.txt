@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Testing
+pytest>=6.0.0
+pytest-cov>=2.10.0
+
+# File I/O and utilities
+argparse>=1.4.0
+pathlib>=1.0.0
+
+# Optional: For advanced parsing
+pyyaml>=5.4.0
+
+# Optional: For visualization (if needed)
+matplotlib>=3.3.0 
